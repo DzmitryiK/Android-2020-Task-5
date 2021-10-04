@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="cat_item_side_margin">16dp</dimen>
+    <dimen name="cat_item_top_bottom_margin">8dp</dimen>
+</resources>
